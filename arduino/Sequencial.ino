@@ -8,19 +8,19 @@
   Este exemplo está em domínio público.
  */
 
-const int PRIMEIRO = 7; // segmento A
+const int PRIMEIRO = 8; // segmento A
 const int ULTIMO = 13;  // segmento F
 
 void setup() {
   for (int i=PRIMEIRO; i<=ULTIMO; i++) {
-    pinMode(display[i], OUTPUT);
+    pinMode(i, OUTPUT);
   }
 }
 
 void loop() {
   for (int i=PRIMEIRO; i<=ULTIMO; i++) {
-    digitalWrite(display[i], HIGH);
+    digitalWrite(i, HIGH);
     delay(analogRead(A0));              
-    digitalWrite(display[i], LOW);   
+    digitalWrite(i, LOW);   
   }
 }
