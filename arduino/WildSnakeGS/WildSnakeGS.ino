@@ -61,7 +61,7 @@ int moves[][2] = {
 */
 
 //                A   B  C  D  E   F   G
-int display[] = {11, 10, 8, 7, 6, 12, 13}; // DojoXXG
+int display[] = {8, 9, 10, 11, 12, 13, 7}; // Garoa Dojo Shield
 const int SEGMENTS = 7;
 
 int head = 1; // segment B
