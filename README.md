@@ -1,7 +1,7 @@
 Garoa Dojo Shield
 =================
 
-Exemplos com o [Garoa Dojo Shield](https://garoa.net.br/wiki/Garoa_Dojo_Shield Documentação)
+Exemplos com o [Garoa Dojo Shield](https://garoa.net.br/wiki/Garoa_Dojo_Shield)
 
 <img src="https://github.com/garoa/dojo-shield/blob/master/img/dojo-shield-2lados.jpg">
 
